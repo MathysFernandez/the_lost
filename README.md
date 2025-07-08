@@ -43,7 +43,7 @@ To clone the project, install dependencies, and run the game locally:
 
 1.  **Clone this repository** in your bash terminal:
     ```bash
-    [git clone](https://github.com/MathysFernandez/the_lost.git)
+    git clone https://github.com/MathysFernandez/the_lost.git
     ```
 2.  **Install dependencies**:
     * **Python** (the latest version)
