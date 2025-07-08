@@ -14,14 +14,14 @@ This page serves as the central entry point for all essential information regard
 
 Our goal is to deliver an **immersive and engaging experience** where every interaction and challenge brings you closer to finding your way out of this world.
 
-Game development is streamlined thanks to the integration of a dedicated map editor (`Concepteur.py`).
+Game development is streamlined thanks to the integration of a dedicated map editor (`Conceptor.py`).
 
 ---
 
 ## 📈 Project Architecture
 
 * **`main.py`**: The main game file, containing the game loop with scenes for the menu, game, etc.
-* **`Concepteur.py`**: A program for developers to modify the game map.
+* **`Conceptor.py`**: A program for developers to modify the game map.
 * **`Files/config.py`**: Configuration file for screen dimensions, title, etc.
 * **`Files/textures_manager.py`**: Handles texture loading and scaling, as well as grid and collision data preparation.
 * **`Files/Lecteur_map.py`**: Allows reading and modifying the JSON map file.
@@ -43,7 +43,7 @@ To clone the project, install dependencies, and run the game locally:
 
 1.  **Clone this repository** in your bash terminal:
     ```bash
-    git clone [https://gitlab.univ-lr.fr/mferna08/the-lost.git](https://gitlab.univ-lr.fr/mferna08/the-lost.git)
+    [git clone](https://github.com/MathysFernandez/the_lost.git)
     ```
 2.  **Install dependencies**:
     * **Python** (the latest version)
@@ -54,7 +54,7 @@ To clone the project, install dependencies, and run the game locally:
     ```
 4.  **Launch the editor mode** with:
     ```bash
-    Concepteur.py
+    Conceptor.py
     ```
 
 ---
